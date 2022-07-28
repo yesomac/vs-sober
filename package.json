@@ -1,6 +1,6 @@
 {
     "name": "sober",
-    "displayName": "Sober",
+    "displayName": "Sober code",
     "description": "",
     "version": "0.0.1",
     "engines": {
@@ -8,13 +8,13 @@
     },
     "keywords": [
         "Themes",
-        "Sober",
-        "Sober 2",
-        "Sober 3",
-        "Sober 4",
-        "Sober 5",
-        "Sober Light",
-        "Sober Light 2"
+        "Sober code",
+        "Sober code 2",
+        "Sober code 3",
+        "Sober code 4",
+        "Sober code 5",
+        "Sober code Light",
+        "Sober code Light 2"
     ],
     "categories": [
         "Themes"
@@ -22,37 +22,37 @@
     "contributes": {
         "themes": [
             {
-                "label": "Sober",
+                "label": "Sober Code",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sober-color-theme.json"
             },
             {
-                "label": "Sober 2",
+                "label": "Sober Code 2",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sober-II-color-theme.json"
             },
             {
-                "label": "Sober 3",
+                "label": "Sober Code 3",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sober-III-color-theme.json"
             },
             {
-                "label": "Sober 4",
+                "label": "Sober Code 4",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sober-IV-color-theme.json"
             },
             {
-                "label": "Sober 5",
+                "label": "Sober Code 5",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sober-V-color-theme.json"
             },
             {
-                "label": "Sober Light",
+                "label": "Sober Code Light",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sober-Light-color-theme.json"
             },
             {
-                "label": "Sober Light 2",
+                "label": "Sober Code Light 2",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sober-Light-II-color-theme.json"
             }
