@@ -1,0 +1,73 @@
+{
+    "name": "sober",
+    "displayName": "Sober",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "keywords": [
+        "Themes",
+        "Sober",
+        "Sober 2",
+        "Sober 3",
+        "Sober 4",
+        "Sober 5",
+        "Sober Light",
+        "Sober Light 2"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sober",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-color-theme.json"
+            },
+            {
+                "label": "Sober 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-II-color-theme.json"
+            },
+            {
+                "label": "Sober 3",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-III-color-theme.json"
+            },
+            {
+                "label": "Sober 4",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-IV-color-theme.json"
+            },
+            {
+                "label": "Sober 5",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-V-color-theme.json"
+            },
+            {
+                "label": "Sober Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-Light-color-theme.json"
+            },
+            {
+                "label": "Sober Light 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-Light-II-color-theme.json"
+            }
+        ]
+    },
+    "icon": "img/dark.png",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/yesomac/sober.git",
+        "type": "git"
+    },
+    "publisher": "yesCode",
+    "license": "MIT"
+
+}
