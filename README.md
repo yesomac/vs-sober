@@ -1,25 +1,25 @@
 # README
-## Sober
+## Sober Code
 
-### Sober
+### Sober Code
 ![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober.png?raw=true)
 
-### Sober 2
+### Sober Code 2
 ![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober_2.png?raw=true)
 
-### Sober 3
+### Sober Code 3
 ![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober_3.png?raw=true)
 
-### Sober 4
+### Sober Code 4
 ![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober_4.png?raw=true)
 
-### Sober 5
+### Sober Code 5
 ![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober_5.png?raw=true)
 
-### Sober Light
+### Sober Code Light
 ![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober-li.png?raw=true)
 
-### Sober Light
+### Sober Code Light
 ![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober-li_2.png?raw=true)
 
 **Enjoy!**
