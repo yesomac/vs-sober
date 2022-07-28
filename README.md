@@ -1,13 +1,25 @@
 # README
-## This is the README for your extension "sober"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Sober
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### Sober
+![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober.png?raw=true)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Sober 2
+![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober_2.png?raw=true)
+
+### Sober 3
+![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober_3.png?raw=true)
+
+### Sober 4
+![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober_4.png?raw=true)
+
+### Sober 5
+![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober_5.png?raw=true)
+
+### Sober Light
+![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober-li.png?raw=true)
+
+### Sober Light
+![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober-li_2.png?raw=true)
 
 **Enjoy!**
