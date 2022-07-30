@@ -47,6 +47,11 @@
                 "path": "./themes/Sober-V-color-theme.json"
             },
             {
+                "label": "Sober Code 6",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-VI-color-theme.json"
+            },
+            {
                 "label": "Sober Code Light",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sober-Light-color-theme.json"
