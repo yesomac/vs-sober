@@ -136,9 +136,9 @@
     "editor.hoverHighlightBackground": "#391d47", ///wor
     "editor.rangeHighlightBackground": "#1e1f28",
     "editor.selectionHighlightBackground": "#314759",
-    "editor.wordHighlightBackground": "#282a36",
+    "editor.wordHighlightBackground": "#060e3fab",
     "editor.wordHighlightBorder": "#9691af71", ///
-    "editor.wordHighlightStrongBackground": "#3c95d1",
+    "editor.wordHighlightStrongBackground": "#0244709a",
     "editor.wordHighlightStrongBorder": "#314759",
     "editorHoverWidget.border": "#8d85be70",
     "editorHoverWidget.foreground": "#fff",

@@ -2,7 +2,7 @@
     "name": "sober-code",
     "displayName": "Sober code",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.69.0"
     },
@@ -50,6 +50,21 @@
                 "label": "Sober Code 6",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sober-VI-color-theme.json"
+            },
+            {
+                "label": "Sober Code 7",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-VII-color-theme.json"
+            },
+            {
+                "label": "Sober Code 8",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-VIII-color-theme.json"
+            },
+            {
+                "label": "Sober Code 9",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-IX-color-theme.json"
             },
             {
                 "label": "Sober Code Light",
