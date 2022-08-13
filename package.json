@@ -13,6 +13,7 @@
         "Sober code 3",
         "Sober code 4",
         "Sober code 5",
+        "Sober code 6",
         "Sober code Light",
         "Sober code Light 2"
     ],
@@ -65,6 +66,16 @@
                 "label": "Sober Code 9",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sober-IX-color-theme.json"
+            },
+            {
+                "label": "Sober Code 10",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-X-color-theme.json"
+            },
+            {
+                "label": "Sober Code 11",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-XI-color-theme.json"
             },
             {
                 "label": "Sober Code Light",

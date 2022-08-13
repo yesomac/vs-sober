@@ -205,7 +205,7 @@
     "terminalOverviewRuler.cursorForeground": "#fff",
     "terminalCursor.background": "#7375b6",
     //panel
-    "panel.background": "#10172edc",
+    "panel.background": "#1e1e1e",
     "panel.border": "#53535e",
     "panelTitle.activeBorder": "#7375b6",
     "panelTitle.activeForeground": "#fff",
