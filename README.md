@@ -1,5 +1,4 @@
-# README
-## Sober Code
+# Sober Code
 
 ### Sober Code
 ![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober.png?raw=true)
