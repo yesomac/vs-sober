@@ -33,6 +33,12 @@
 ### Sober Code 11
 ![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober11.png?raw=true)
 
+### Sober Code 12
+![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober_12.png?raw=true)
+
+### Sober Code 13
+![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober_13.png?raw=true)
+
 ### Sober Code Light
 ![This is an image](https://github.com/yesomac/vs-sober/blob/main/img/sober-li.png?raw=true)
 
