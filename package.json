@@ -28,6 +28,11 @@
                 "path": "./themes/Sober-color-theme.json"
             },
             {
+                "label": "Sober Code Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-color-Dark-theme.json"
+            },
+            {
                 "label": "Sober Code 2",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sober-II-color-theme.json"
@@ -86,6 +91,11 @@
                 "label": "Sober Code 13",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sober-XIII-color-theme.json"
+            },
+            {
+                "label": "Sober Code 14",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober-14-color-theme.json"
             },
             {
                 "label": "Sober Code Light",
